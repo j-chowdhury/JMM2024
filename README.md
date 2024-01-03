@@ -8,5 +8,8 @@ or a link with whatever text I want. J(https://google.com)
 
 Here is a foprmula $x = 2c$
 
+$x^2+y^2=z^2$
+
+
 
 
